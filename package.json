@@ -20,6 +20,5 @@
   },
   "homepage": "https://github.com/zackdaoudiii/hash-it#readme",
   "dependencies": {
-    "express": "^4.18.2"
   }
 }
